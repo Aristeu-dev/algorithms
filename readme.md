@@ -24,6 +24,12 @@ This repository contains all the algorithms I do for college.
      Uma instituição de ensino realizou uma pesquisa sobre os eleitores de um município que participaram da ultima eleição. Faça um algoritmo/programa que leia o total de votos brancos, nulos e válidos. Calcule e escreva o percentual que cada um representa em relação ao total de eleitores.
      An educational institution conducted a survey of voters in a municipality that participated in the last election. Make an algorithm/program that reads the total votes white, null and valid. Calculate and write the percentage that each represents in in relation to the total number of voters.
 ```
+- ### 04 Algoritmo par ou impar.c
+
+```html
+   Faça um algoritmo que leia um número, determine e escreva se ele é par ou impar.
+   Make an algorithm that reads a number, determines and writes whether it is even or odd.
+```
 
 ## Author Info
 
