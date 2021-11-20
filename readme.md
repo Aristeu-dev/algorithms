@@ -9,10 +9,10 @@ This repository contains all the algorithms I do for college.
 
 ## Exercices
 - ### 01 Algoritmo _ Conta de água.c
-```html
+`
      A conta de água de uma residência e o resultado da soma da tarifa de água com tarifa de esgoto. Faça um algoritmo/programa que leia a tarifa de água, calcule a tarifa de esgoto (80% da tarifa de água) e escreva o valor da conta a ser paga.
      The water bill of a household and the result of the sum of the water tariff with the tariff of Sewer. Make an algorithm/program that reads the water tariff, calculates the sewage tariff (80% of the water tariff) and write down the amount of the bill to be paid.
-```
+`
 
 - ### 02 Algoritmo _ Volume.c
 ```html
