@@ -57,6 +57,38 @@ This repository contains all the algorithms I do for college.
     O número de pessoas que responderam não;<br>
     O porcentagem de pessoas do sexo feminino que responderam sim;<br>
     O porcentagem de pessoas do sexo masculino que responderam não. <br>
+
+    - ### [Distance](./distance.c)
+
+   > *There is a road that connects several cities. Each city has its kilometer mark.
+    Make an algorithm that:
+    Read multiple data pairs, each data pair containing the milestone values
+    kilometer, in ascending order, of two cities. The last pair contains these two
+    equal values;
+    Calculate the time taken to travel the distance between these two cities, with
+    the following speeds: 20, 30, 40, 50, 60, 70 and 80 km/h, knowing that: <br>
+    T = E/V, where:<br>
+    T = time<br>
+    E = distance<br>
+    V = speed<br>
+    Write the milestones, speed, and elapsed time between the two
+    cities, only when this time exceeds 2 hours.*
+    <br> 
+   Tem-se uma estrada ligando várias cidades. Cada cidade tem seu marco quilométrico.
+    Fazer um algoritmo que:
+    Leia vários pares de dados, contendo cada par de dados os valores dos marcos
+    quilométrico, em ordem crescente, de duas cidades. O último par contém estes dois
+    valores iguais;
+    Calcule os tempos decorridos para percorrer a distância entre estas duas cidades, com
+    as seguintes velocidades: 20, 30, 40, 50, 60, 70 e 80 Km/h, sabendo-se que: <br>
+    T = E / V , onde :<br>
+    T = tempo<br>
+    E = especo<br>
+    V = velocidade<br>
+    Escreva os marcos quilométricos, a velocidade e o tempo decorrido entre as duas
+    cidades, apenas quando este tempo for superior a 2 horas.
+    <br>
+    
 ## Author Info
 
 - Linkedin - [Aristeu Garcia](https://www.linkedin.com/in/aristeu-garcia-7007a0202)
