@@ -73,8 +73,7 @@ This repository contains all the algorithms I do for college.
     V = speed<br>
     Write the milestones, speed, and elapsed time between the two
     cities, only when this time exceeds 2 hours.*
-    <br> 
-   Tem-se uma estrada ligando várias cidades. Cada cidade tem seu marco quilométrico.
+    <br> Tem-se uma estrada ligando várias cidades. Cada cidade tem seu marco quilométrico.
     Fazer um algoritmo que:
     Leia vários pares de dados, contendo cada par de dados os valores dos marcos
     quilométrico, em ordem crescente, de duas cidades. O último par contém estes dois
@@ -86,8 +85,7 @@ This repository contains all the algorithms I do for college.
     E = especo<br>
     V = velocidade<br>
     Escreva os marcos quilométricos, a velocidade e o tempo decorrido entre as duas
-    cidades, apenas quando este tempo for superior a 2 horas.
-    <br>
+    cidades, apenas quando este tempo for superior a 2 horas.<br>
     
 ## Author Info
 
