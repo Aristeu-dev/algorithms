@@ -87,6 +87,13 @@ This repository contains all the algorithms I do for college.
     Escreva os marcos quilométricos, a velocidade e o tempo decorrido entre as duas
     cidades, apenas quando este tempo for superior a 2 horas.<br>
     
+    - ### [Inversion](./inversion.c)
+
+   > *Write an algorithm that generates and prints a composite variable A, obtained by
+    inversion of the order of 200 numerical values ​​read from an input medium.*
+    <br>Write an algorithm that generates and prints a composite variable A, obtained by
+     inversion of the order of 200 numerical values ​​read from an input medium.<br>
+    
 ## Author Info
 
 - Linkedin - [Aristeu Garcia](https://www.linkedin.com/in/aristeu-garcia-7007a0202)
