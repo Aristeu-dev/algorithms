@@ -94,6 +94,108 @@ This repository contains all the algorithms I do for college.
     <br>Write an algorithm that generates and prints a composite variable A, obtained by
      inversion of the order of 200 numerical values ​​read from an input medium.<br>
     
+    - ### [Bigger or smaller](./biggerOrSmaller.c)
+
+   > *Write a program that reads a value and then reads a string
+    of n integers and store them in an array. So your program
+    must determine the largest and smallest element of the vector.*
+    <br> 
+    Escreva um programa que leia um valor e depois leia uma string
+    de n inteiros e armazená-los em uma matriz. Então seu programa
+    deve determinar o maior e o menor elemento do vetor.
+    <br>
+
+    - ### [Anagram](./anagram.c)
+
+   > *Write a program that reads two words from the keyboard and determines
+    if the second is an anagram of the first. One word is an anagram of another
+    if all the letters of one occur in the other, in the same number, regardless of the
+    position. Examples: ROMA, MORA, ORAM, AMOR, BRANCH, are anagrams of each other.*
+    <br> 
+    Escreva um programa que leia duas palavras do teclado e determine
+    se a segunda é um anagrama da primeira. Uma palavra é um anagrama de outra
+    se todas as letras de uma ocorrem na outra, em mesmo número, independente da
+    posição. Exemplos: ROMA, MORA, ORAM, AMOR, RAMO, são anagramas entre si.
+    <br>
+
+    - ### [Palindrome](./palindrome.c)
+
+   > *Write a program that reads a word from the keyboard and determines if it is a palindrome.*
+    <br> 
+    Escreva um programa que leia uma palavra do teclado e determine
+    se é um palíndromo.
+    <br>
+
+    - ### [Sequence](./sequence.c)
+
+   > *Write a program that reads a sequence of n integers and determine how many isolated sequences of equal numbers there are.*
+    <br> 
+    Escreva um programa que leia uma palavra do teclado e determine
+    se é um palíndromo.
+    <br>
+
+    - ### [Binary Sequence](./binarySequence.c)
+
+   > *Given two sequences of n and m binary elements (0 or 1), where n
+    ≤ m, write a program that checks how many times the first sequence occurs
+    on Monday. Ex: if the first is 101 and the second is 1101010011010, then the
+    result should be 3.*
+    <br> 
+    Dadas duas sequências de n e m elementos binários (0 ou 1), onde n
+    ≤ m, faça um programa que verifique quantas vezes a primeira sequência ocorre
+    na segunda. Ex: se a primeira for 101 e a segunda 1101010011010, então o
+    resultado deve ser 3.
+    <br>
+    
+    - ### [Sequential Search](./sequentialSearch.c)
+
+   > *(Sequential search) Write a program that reads a sequence of
+    positive numbers ending with the number 0 and store them in a vector.
+    After that, your program should ask the user for a number and search if the
+    typed number occurs in the vector. Your program must implement the algorithm of
+    sequential search.*
+    <br> 
+    (Busca sequencial) Faça um programa que leia uma sequência de
+    números positivos terminada com o número 0 e os armazene em um vetor.
+    Depois disso, seu programa deve solicitar um número ao usuário e pesquisar se o
+    número digitado ocorre no vetor. Seu programa deve implementar o algoritmo de
+    busca sequencial.
+    <br>
+
+    - ### [Binary Search](./binarySearch.c)
+
+   > *(Binary search) The program of this exercise is essentially the
+    same as the previous one. However, in this exercise, you must implement the
+    binary search algorithm (so it is necessary that you sort your vector
+    before doing the search).*
+    <br> 
+    (Busca binária) O programa deste exercício é essencialmente o
+    mesmo que o anterior. Entretanto, neste exercício, você deve implementar o
+    algoritmo de busca binária (portanto, é necessário que você ordene o seu vetor
+    antes de fazer a busca).
+    <br>
+
+    - ### [Binary Search vs Sequential Search](./sequentialSearchVSbinarySequence.c)
+
+   > *(Sequential Search versus Binary Search) Consider the last two
+    Software. Suppose you want to look for the occurrence of the number x. THE
+    The purpose of this exercise is to count the number of tests/comparisons of x with the
+    elements of the vector, which each of the programs needs to do to
+    decision. To do this, in each of the programs, add a counter to the
+    determine this number. Compare the performance of both programs,
+    considering the number of comparisons performed.*
+    <br> 
+    (Busca sequencial versus Busca binária) Considere os dois últimos
+    programas. Suponha que você queira pesquisar a ocorrência do número x. O
+    objetivo deste exercício é contar o número de testes/comparações de x com os
+    elementos do vetor, que cada um dos programas precisa fazer para tomar uma
+    decisão. Para isso, em cada um dos programas, acrescente um contador para
+    determinar este número. Compare o desempenho de ambos os programas,
+    considerando o número de comparações realizadas.
+    <br>
+
+
+
 ## Author Info
 
 - Linkedin - [Aristeu Garcia](https://www.linkedin.com/in/aristeu-garcia-7007a0202)
