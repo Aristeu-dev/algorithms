@@ -186,6 +186,12 @@ This repository contains all the algorithms I do for college.
     considerando o número de comparações realizadas.
     <br>
 
+    - ### [Quicksort](./quicksort.c)
+     > *Quicksort is a sorting algorithm based on the divide and conquer approach where.
+    An array is divided into subarrays by selecting a pivot element (element selected from the array).*
+    <br> Quicksort é um algoritmo de ordenação baseado na abordagem de dividir e conquistar onde.
+    Um array é dividido em subarrays selecionando um elemento pivô (elemento selecionado do array).
+    <br>
 
 
 ## Author Info
